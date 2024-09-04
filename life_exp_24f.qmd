@@ -1,0 +1,12 @@
+---
+title: "life_exp 224f"
+format: html
+date: 09/04/2024
+editor: visual
+---
+
+library(tidyverse)
+
+#Abstract Here, I re-examine the analysis of Oeppen and Vaupel (2002).
+
+# Analysis
